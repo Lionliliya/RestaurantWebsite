@@ -1,0 +1,12 @@
+
+out/
+target/
+.idea/
+RestaurantWebSite.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
